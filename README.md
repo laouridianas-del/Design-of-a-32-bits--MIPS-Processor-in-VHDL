@@ -177,7 +177,6 @@ The corresponding simulation waveform shows the different execution stages and t
 
 - **VHDL** – Hardware description language.
 - **Quartus Prime** – Design, compilation, and simulation environment.
-- **ModelSim / Questa** – Waveform simulation and verification, if used in the project.
 
 ## Repository Structure
 
@@ -195,8 +194,6 @@ Design-of-a-32-bits--MIPS-Processor-in-VHDL/
 ├── README.md
 └── ...
 ```
-
-*Note: The directory names above are illustrative. Adjust them to match the actual repository structure.*
 
 ## Conclusion
 
